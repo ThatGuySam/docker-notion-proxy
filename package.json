@@ -1,0 +1,20 @@
+{
+  "name": "churchplaylists",
+  "version": "1.0.0",
+  "description": "Docker image for a Nginx based reverse proxy for Notion so.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "alias": "now alias https://docker-notion-proxy-aqdeaykevo.now.sh churchplaylists"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatGuySam/docker-notion-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThatGuySam/docker-notion-proxy/issues"
+  },
+  "homepage": "https://github.com/ThatGuySam/docker-notion-proxy#readme"
+}
