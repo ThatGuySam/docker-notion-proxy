@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "now --docker",
     "alias": "now alias https://docker-notion-proxy-aqdeaykevo.now.sh churchplaylists"
   },
   "repository": {
